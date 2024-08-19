@@ -5,9 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the application ofengineering priciples,methods and tools to design,develop,test, deploy and maintain high quality software systems.It plays a major role in the technnology industry by enabling creation of sofware systems that power different aspects of our lives like finance.
+Software engineering is the application of engineering priciples,methods and tools to design,develop,test, deploy and maintain high quality software systems.It plays a major role in the technnology industry by enabling creation of sofware systems that power different aspects of our lives like finance.
 Identify and describe at least three key milestones in the evolution of software engineering.
-Software Engineering was estabished as a disciplie in the 1960s. In the 1970s was the advent of structured programming and in 2000s saww the rise of agile methodologies
+Software Engineering was estabished as a disciplie in the 1960s. In the 1970s was the advent of structured programming and in 2000s saw the rise of agile methodologies
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Requirements- gather and document user needs and system requirements
@@ -36,9 +36,9 @@ Tight deadlines as strategy ro overcome this challenge is to prioritize tasks
 Technical debt a strategy to overcome this is to implement agile methodologies
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit testing is testing individual components of a software
-Integration testing is testing iteractions between different componenets
-System testing is testing the entire software system as a whole
+Unit testing is testing individual components of a software, it ensures each component behaves well in isolation
+Integration testing is testing iteractions between different componenets to ensure different components work together nicely
+System testing is testing the entire software system as a whole.It helps identify errors that may have been missed during unit and integration testing improving overall software quality.
 Acceptance testing is testing software against uset requirements to ensure it meets user needs
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -49,3 +49,4 @@ Prompt engineering is the crafting of questions or statements to get the best re
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 A vague propt is for example "Tell me about money"
 An improved one is "Provide an overview of the development of currencies from ancient times to present day highiighting key developments."
+This new prompt is more effective because it is clear, concise and complete
